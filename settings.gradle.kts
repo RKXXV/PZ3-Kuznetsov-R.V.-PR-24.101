@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "PR3 Kuznetsov R.V. PR-24.101"
 include(":app")
+
+// ufhrufhruhfurf
